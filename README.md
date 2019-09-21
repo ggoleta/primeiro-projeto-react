@@ -9,3 +9,6 @@
   <li>Load API Data</li>
   <li>PropTypes</li>
 </ol>
+
+![pag1](https://user-images.githubusercontent.com/5482622/65367014-d8176280-dc01-11e9-8a2f-df8a707bd0b6.png)
+![pag2](https://user-images.githubusercontent.com/5482622/65367023-e5345180-dc01-11e9-9d89-9d43db48e040.png)
